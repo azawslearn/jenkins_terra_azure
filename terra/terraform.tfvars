@@ -1,0 +1,5 @@
+prefix         = "RH"
+region         = "westeurope"
+vm_size        = "Standard_B1s"
+admin          = "adminuser"
+admin_password = "EmersonFitipaldi1!"
